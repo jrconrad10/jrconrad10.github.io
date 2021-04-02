@@ -11,4 +11,4 @@ Enjoy!
 
 ## Repo
 
-[GitHub Repo](https://jrconrad10.github.io)
+[GitHub Repo](https://github.com/jrconrad10/jrconrad10.github.io)
