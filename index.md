@@ -6,8 +6,9 @@ Enjoy!
 
 ## Pages
 
-- [About page](./about)
-- [Projects page](./projects)
+[About page](./about)
+
+[Projects page](./projects)
 
 ## Repo
 
