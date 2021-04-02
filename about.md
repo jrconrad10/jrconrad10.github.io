@@ -7,3 +7,7 @@ Hello my name is Jacob Conrad! I am a freshman computer science major at Quinnip
 [Home](./)
 
 [Projects page](./projects)
+
+# More about me
+
+[Football Highlights](https://www.hudl.com/video/3/8292771/5de1d17e4deb1113b068a0ce)
