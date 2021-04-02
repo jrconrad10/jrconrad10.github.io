@@ -1,7 +1,7 @@
 name: Jacob Conrad's Website
 title: Jacob Conrad
+colorspace: [primary page color purple]
+description: [Welcome to my website! This website helps you learn more about me and take a look at the programming work I have done so far.]
 plugins:
   - jemoji
 remote_theme: "dracula/gh-pages"
-colorspace: [purple]
-description: [Welcome to my website! This website helps you learn more about me and take a look at the programming work I have done so far.]
