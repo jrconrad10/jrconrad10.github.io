@@ -1,3 +1,14 @@
-#Hello
+# Jacob Conrad
 
-Welcome to my website!
+Welcome to my website! This website helps you learn more about me and take a look at the GitHub work I have done so far.
+
+Enjoy!
+
+## Pages
+
+[About page](./about)
+[Projects page](./projects)
+
+## Repo
+
+[GitHub Repo](https://jrconrad10.github.io)
