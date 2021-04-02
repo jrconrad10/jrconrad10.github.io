@@ -1,5 +1,7 @@
 name: Jacob Conrad's Website
-title: null
+title: Jacob Conrad
 plugins:
   - jemoji
 remote_theme: "dracula/gh-pages"
+colorspace: [purple]
+description: [Welcome to my website! This website helps you learn more about me and take a look at the programming work I have done so far.]
