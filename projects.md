@@ -24,6 +24,6 @@ This is a group project using java where my partners and I created a weighted gp
 
 [About Page](./about)
 
-## Source Repo
+# Source Repo
 
 [GitHub Repo](https://github.com/jrconrad10/jrconrad10.github.io)

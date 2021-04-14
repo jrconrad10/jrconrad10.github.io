@@ -1,4 +1,4 @@
-## Pages
+# Pages
 
 [About page](./about)
 
